@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MarketplaceLayout</string>
+    <string name="welcome_text">Welcome Back</string>
+    <string name="welcome_sub_text">at Largest Service Marketplace</string>
 </resources>
